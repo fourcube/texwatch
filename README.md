@@ -4,8 +4,8 @@ Watch a folder with .tex files for changes. Generate a PDF from
 the main document.tex when a change occurs. Automatically creates the
 bibliography using Biber.
 
-Should work with miktex out of the box. Requires 'latex' and 'biber' 
-binaries to be located on the $PATH.
+Works with MiKTeX and MacTeX out of the box. Requires 'latex' and 'biber' 
+binaries to be located on the $PATH. You have to install packages by hand when using MacTeX.
 
 ## Installation
 
