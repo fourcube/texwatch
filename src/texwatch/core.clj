@@ -11,8 +11,6 @@
                           #"\.jpg$"
                           #"\.jpeg$"])
 
-
-
 (defn bind-invoke-tex
   "Return a function that invokes latex on input file."
   [input-file output-folder]
